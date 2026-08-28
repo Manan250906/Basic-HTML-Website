@@ -26,7 +26,7 @@ A simple multi-page personal website created using HTML. The project focuses on 
 
 ## Project URL
 
-[View the Project](https://manan250906.github.io/my-html-CV-project/)
+[View the Project](https://github.com/Manan250906/Basic-HTML-Website.git)
 
 ## GitHub Repository
 
