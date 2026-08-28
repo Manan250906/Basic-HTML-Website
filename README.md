@@ -1,2 +1,33 @@
-# Basic-HTML-Website
-The goal of this project is to teach you how to structure a website using HTML i.e. different sections of a website like header, footer, navigation, main content, sidebars etc. Do not style the website, only focus on the structure. Styling will be done in separate projects.
+# Basic HTML Website
+
+A simple multi-page personal website created using HTML. The project focuses on semantic HTML structure, multiple pages, navigation, and SEO meta tags.
+
+## Pages
+
+* Home
+* Projects
+* Articles
+* Contact
+
+## Technologies Used
+
+* HTML5
+* CSS3
+
+## Features
+
+* Multiple HTML pages
+* Navigation bar on all pages
+* Semantic HTML structure
+* SEO meta tags
+* Contact form
+* Responsive viewport meta tag
+* External CSS file
+
+## Project URL
+
+[View the Project](https://manan250906.github.io/my-html-CV-project/)
+
+## GitHub Repository
+
+[View Repository](https://github.com/Manan250906/my-html-CV-project)
