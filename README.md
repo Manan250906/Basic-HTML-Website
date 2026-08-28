@@ -11,6 +11,3 @@ https://manan250906.github.io/Basic-HTML-Website/
 
 ## GitHub Repository
 https://github.com/Manan250906/Basic-HTML-Website
-
-## Description
-A simple multi-page HTML website created as a learning project to understand HTML structure and semantic elements.
