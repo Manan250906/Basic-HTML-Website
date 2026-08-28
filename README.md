@@ -1,6 +1,6 @@
 # Basic HTML Website
 
-This is a basic HTML website created using HTML.
+A simple multi-page website created using HTML.
 
 ## Project URL
 
