@@ -1,6 +1,6 @@
 # Basic HTML Website
 
-A simple multi-page personal website created using HTML. The project focuses on semantic HTML structure, multiple pages, navigation, and SEO meta tags.
+A simple multi-page HTML website created to practice semantic HTML structure and website navigation.
 
 ## Pages
 
@@ -16,18 +16,17 @@ A simple multi-page personal website created using HTML. The project focuses on 
 
 ## Features
 
-* Multiple HTML pages
-* Navigation bar on all pages
+* Multiple pages
+* Navigation bar on every page
 * Semantic HTML structure
 * SEO meta tags
 * Contact form
-* Responsive viewport meta tag
 * External CSS file
 
 ## Project URL
 
-[View the Project](https://github.com/Manan250906/Basic-HTML-Website.git)
+https://manan250906.github.io/Basic-HTML-Website/
 
 ## GitHub Repository
 
-[View Repository](https://github.com/Manan250906/my-html-CV-project)
+https://github.com/Manan250906/Basic-HTML-Website
